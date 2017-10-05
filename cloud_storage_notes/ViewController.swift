@@ -62,7 +62,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func cancel(_ sender: Any) {
-
+      disMiss()
     }
 
     
